@@ -15,7 +15,7 @@
     "array-flatten": "^3.0.0",
     "asap": "^2.0.6",
     "aws4": "^1.11.0",
-    "axios": "^0.21.2",
+    "axios": "^1.6.0",
     "bananojs": "npm:@bananocoin/bananojs@^2.4.24",
     "bl": "^5.0.0",
     "body-parser": "^1.19.0",
