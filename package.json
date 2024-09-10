@@ -65,7 +65,7 @@
     "on-finished": "^2.3.0",
     "optional-require": "^1.1.8",
     "parseurl": "^1.3.3",
-    "path-to-regexp": "^6.2.0",
+    "path-to-regexp": "^8.0.0",
     "process-nextick-args": "^2.0.1",
     "proxy-addr": "^2.0.7",
     "qs": "^6.10.1",
